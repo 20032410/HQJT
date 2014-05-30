@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "net_479d4fe5-d812-4b13-8700-8432810f0c0b", ".", "{A6CE92E6-D77F-4F35-B035-19A85F21306E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/net_479d4fe5-d812-4b13-8700-8432810f0c0b"
+		Debug.AspNetCompiler.PhysicalPath = "..\net_479d4fe5-d812-4b13-8700-8432810f0c0b\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\net_479d4fe5-d812-4b13-8700-8432810f0c0b\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/net_479d4fe5-d812-4b13-8700-8432810f0c0b"
+		Release.AspNetCompiler.PhysicalPath = "..\net_479d4fe5-d812-4b13-8700-8432810f0c0b\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\net_479d4fe5-d812-4b13-8700-8432810f0c0b\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "18682"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6CE92E6-D77F-4F35-B035-19A85F21306E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CE92E6-D77F-4F35-B035-19A85F21306E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

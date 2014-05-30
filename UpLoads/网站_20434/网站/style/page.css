@@ -1,0 +1,55 @@
+﻿body {margin:0px; padding:0px;  font-size:12px; font:arial; 
+}
+.container {
+	WIDTH: 730px;
+	HEIGHT: 262px;
+	z-index:0
+	
+}
+.container A IMG {
+	WIDTH: 730px;
+	HEIGHT: 262px
+}
+.container IMG {
+	BORDER-BOTTOM-STYLE: none;
+	BORDER-RIGHT-STYLE: none;
+	BORDER-TOP-STYLE: none;
+	BORDER-LEFT-STYLE: none
+}
+.td_f A IMG {
+	PADDING-BOTTOM: 0px;
+	MARGIN: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-RIGHT: 0px;
+	PADDING-TOP: 0px
+}
+.num {
+	POSITION: absolute;
+	WIDTH: 90px;
+	FLOAT: right;
+	TOP: 230px;
+	LEFT: 600px;
+	
+	z-index:10
+}
+.num LI {
+	TEXT-ALIGN: center;
+	LINE-HEIGHT: 15px;
+	LIST-STYLE-TYPE: none;
+	MARGIN: 1px;
+	FONT-FAMILY: Arial;
+	BACKGROUND:#676767;
+	width:24px;
+	FLOAT: left;
+	HEIGHT: 15px;
+	COLOR: #FFF;
+	FONT-SIZE: 12px;
+	CURSOR: pointer
+}
+.num LI.on {
+	LINE-HEIGHT: 15px;
+	WIDTH: 24px;
+	BACKGROUND:#FE0000;
+	HEIGHT: 15px;
+	COLOR: #ffffff
+}
